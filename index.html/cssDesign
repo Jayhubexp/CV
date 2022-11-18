@@ -1,0 +1,6 @@
+title{
+    color: slategray; 
+}
+div#menu{
+    color: #00ffff;
+}

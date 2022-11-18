@@ -1,0 +1,35 @@
+h1 {
+    color:#0000ff; 
+    font-size: xx-large;
+}
+body {
+background-color: skyblue;
+}
+div#menu { 
+    color: #ca3a82;
+    font-size: x-large;
+    box-sizing: content-box;
+}
+div#header {
+    background-color: crimson
+    background-size: contain;
+    text-decoration-color: aliceblue;
+}
+p.content {
+    text-align: justify;
+    background-color: rgb(12, 1, 1);
+    color: beige;
+}
+p{
+    text-align: justify;   
+}
+p.end{
+    text-align: right;
+    background-image: url("imgs/Apple.jpg");
+    padding:150px; 
+    background-size: contain;
+}
+table#talent{
+    background-image:url("night.jpg") ;
+    color:crimson;
+}
